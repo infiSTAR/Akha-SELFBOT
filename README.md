@@ -12,7 +12,7 @@ After that, start the selfbot and use the commands that you want. Make sure to w
 ***Features:***
 
 a.clear - a.clear 'amount of messages' , delete X messages on a channel. **May be broken**                                                 
-a.embed             - Embed your message **You can only embed with 1 word, if there are space it will  not work.**                         
+a.embed             - Embed your message                                                                                                                           
 a.serveravatar      - Get a server avatar url                                                                                                    
 a.serverinfo        - Get a server informations                                                                                                    
 a.ping              - Shows the websocket connection's latency                                                                                                    
