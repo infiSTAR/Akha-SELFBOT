@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akhasb", "..\Akhasb\Akhasb.csproj", "{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug-NET35|Any CPU = Debug-NET35|Any CPU
+		Debug-NET40|Any CPU = Debug-NET40|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-NET35|Any CPU = Release-NET35|Any CPU
+		Release-NET40|Any CPU = Release-NET40|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug-NET35|Any CPU.ActiveCfg = Debug-NET35|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug-NET35|Any CPU.Build.0 = Debug-NET35|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug-NET40|Any CPU.ActiveCfg = Debug-NET40|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Debug-NET40|Any CPU.Build.0 = Debug-NET40|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release-NET35|Any CPU.ActiveCfg = Release-NET35|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release-NET35|Any CPU.Build.0 = Release-NET35|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release-NET40|Any CPU.ActiveCfg = Release-NET40|Any CPU
+		{F46BF70B-12FA-4E83-96F6-E11D4B9B8C20}.Release-NET40|Any CPU.Build.0 = Release-NET40|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9A201C-76F1-41C0-99AD-9FC17D5A7BD0}
+	EndGlobalSection
+EndGlobal
