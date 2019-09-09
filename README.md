@@ -1,5 +1,5 @@
 # Akha-SELFBOT
-**A free and easy to use discord selfbot ! Made by RZY#2000 in C#**
+**A free and easy to use discord selfbot ! Made by RZY in C#**
 
 How to use it?
 
